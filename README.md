@@ -18,8 +18,8 @@ The mental health of workers is a very crucial topic to consider. And while remo
 ### Tools Used
 - EXCEL: This is the only tool I used for;
      - Data Cleaning and data manipulation, using Excel formulas
-     - Pivot tables to do my analysis
-     - A entire new sheet in the workbook for creating a report dashboard
+     - Analysis, using Pivot tables
+     - A report dashboard, using an entirely new sheet in the workbook 
 
 
 
