@@ -15,8 +15,13 @@ The mental health of workers is a very crucial topic to consider. And while remo
 ### Data Source
 
 
-#### Tools Used
-- EXCEL: This is the only tool I used for the analysis. However, In the Excel tool, i sued formulas and Pivot tables to do my anakysis.  
+### Tools Used
+- EXCEL: This is the only tool I used for;
+     - Data Cleaning, using Excel formulas
+     - Pivot tables to do my analysis
+     - A entire new sheet in the workbook for creating a report dashboard
+
+
 
 ### Limitations
 
