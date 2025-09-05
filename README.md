@@ -16,12 +16,13 @@ The mental health of workers is a very crucial topic to consider. And while remo
 
 
 ### Tools Used
-- EXCEL ![EXCEL](Microsoft_Excel-Logo.wine) [Download tool here](https://microsoft-excel.en.softonic.com/)
+- EXCEL <img width="3000" height="2000" alt="Microsoft_Excel-Logo wine" src="https://github.com/user-attachments/assets/9bdc7f4c-733d-48db-82a0-88c587cd8001" />
+ [Download tool here](https://microsoft-excel.en.softonic.com/)
 
 This is the only tool I used for;
-     - Data Cleaning and data manipulation, using Excel formulas
-     - Analysis, using Pivot tables
-     - A report dashboard, using an entirely new sheet in the workbook 
+- Data Cleaning and data manipulation, using Excel formulas
+- Analysis, using Pivot tables
+- A report dashboard, using an entirely new sheet in the workbook 
 
 
 
