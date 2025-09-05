@@ -16,7 +16,9 @@ The mental health of workers is a very crucial topic to consider. And while remo
 
 
 ### Tools Used
-- EXCEL: This is the only tool I used for;
+- EXCEL: ![The Excel Logo](Microsoft_Excel-Logo.wine)
+
+This is the only tool I used for;
      - Data Cleaning and data manipulation, using Excel formulas
      - Analysis, using Pivot tables
      - A report dashboard, using an entirely new sheet in the workbook 
