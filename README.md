@@ -1,7 +1,7 @@
  # Data-Analysis-Journey---EXCEL-Project
 ## This is a documentation of my EXCEL lesson Project. 
 
-In a bid to solidify my knowledge of  __EXCEL__ as a student of Biomedical Engineering student aiming to delve into research, I decided to work on a __Mental Health survey of Workers__. 
+In a bid to solidify my knowledge of  __EXCEL__ as a student of Biomedical Engineering aiming to delve into Data Analysis and research, I decided to work on a __Mental Health survey of Workers__. 
 
 ## Project Topic: Mental Health Risk of Remote Workers
 ### Table Of Content
