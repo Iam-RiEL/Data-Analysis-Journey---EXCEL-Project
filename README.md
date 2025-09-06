@@ -49,8 +49,10 @@ I used the formula below for this processes;
 =IF(Logical_test, Value_if_true, [Value_if_false] )
 ```
 Also, I did a count of the each age group using the formula;
-```
+```excel
+
 =COUNTIF(Range, Criteria)
+
 ```
 
 Using the burnout risk scale;
@@ -61,15 +63,12 @@ Using the burnout risk scale;
 
 I did a count of respondent according to age group who are at risk and not at risk of burnout. See the formula below.
 
-```
+```excel
 =COUNTIFS(Range 1, Criteria 1, [Range 2, Criteria 2]...)
 ```
 
 For easier visualization I added a screenshoot of my outcome
-
-
-
-
+[Result.xlsx](https://github.com/user-attachments/files/17611792/githubsales.xlsx)
 
 
 
