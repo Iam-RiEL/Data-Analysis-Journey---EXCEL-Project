@@ -99,11 +99,18 @@ I used Pivot Tables to smmarize the data into tables. These tables show
                8. Max Burnout level by Age group 
 <img width="386" height="148" alt="Screenshot 2025-09-06 101818" src="https://github.com/user-attachments/assets/ea8b1477-5f37-423c-b632-24f6190be2d7" />
 
+#### Dashboard
+Thereafter, I created a beautiful dashboard that explains my analysis at first glance. 
+
+               WELL BEING METRICS FOR MENTAL HEALTH
+<img width="1881" height="773" alt="Screenshot 2025-09-06 134015" src="https://github.com/user-attachments/assets/6c45105d-287a-44d3-ba32-7e5bda90e0e3" />
+
+               JOB FACTORS OF MENTAL HEALTH
+<img width="1887" height="774" alt="Screenshot 2025-09-06 134435" src="https://github.com/user-attachments/assets/6e8906de-3ce8-4574-8b7b-0fb017e4cc6f" />
+
+
 ### Limitations
-The limitation of this analysis is in the sample size. The number of respondent in each age group is not equal, so the analysis cannot profoundly say that one age group is at more risk compared to the other. I can only assume. 
-
-### Project Structure
-
+The limitation of this analysis is in the sample size. After extracting the data for remote workers only, I had a total number of 988 respondents. However, the result cannot be generalized as the number of respondent in each age group is not equal. For instance, the number of respondents in the Youth age group is more than those in the elder age group. So the analysis cannot profoundly say that one age group is at more risk compared to the other. I can only assume. 
 
 ### Analysis
 
