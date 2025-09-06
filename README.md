@@ -39,7 +39,7 @@ I removed some columns that were not necessary for the analysis. Also, I generat
   - Adult 46 - 70
   - Elder 70 above
 
- - __Work-life-balance Group__:
+ - __Work-life-balance Group (WLB)__:
    - Poor Balance 0 - 3
    - Moderate Balance 4 - 6
    - Healthy Balance 7 - 10
@@ -75,14 +75,29 @@ For easier visualization I added a screenshoot of my outcome
 
 I used Pivot Tables to smmarize the data into tables. These tables show 
 
-1. Burnout Risk By Age Group
+1. Work hours per week/ Sleep hours by Job role/ Dept
+<img width="733" height="223" alt="Screenshot 2025-09-06 101847" src="https://github.com/user-attachments/assets/19800650-2700-4c70-8adf-ee121504acb2" />
 
+2. Burnout Risk By Age Group
+<img width="335" height="146" alt="Screenshot 2025-09-06 095739" src="https://github.com/user-attachments/assets/fa8f7655-eb6f-4faf-bad5-58734ee49a34" />
 
-   
-1. ;bo d
-1. lgqd 
-1. kk 
+3. Average work hours per weel/ Sleep hours
+<img width="565" height="144" alt="Screenshot 2025-09-06 101715" src="https://github.com/user-attachments/assets/fb5c3050-6882-41d8-a414-556d135ff648" />
 
+4. Commute time by WLB group
+<img width="428" height="124" alt="Screenshot 2025-09-06 101726" src="https://github.com/user-attachments/assets/a0cabfc7-4715-4c62-a121-96c3df6ec777" />
+
+5. Max stress level by WLB group 
+<img width="431" height="127" alt="Screenshot 2025-09-06 101735" src="https://github.com/user-attachments/assets/52e48849-08cd-4fc3-940c-17a4a0cdbf91" />
+
+6. Work hours per week/ Sleep hours by Country
+<img width="607" height="207" alt="Screenshot 2025-09-06 101744" src="https://github.com/user-attachments/assets/ccce51aa-caed-4bdc-a8eb-2ee8da1075ba" />
+
+7. Average Burnout level by Country
+<img width="428" height="205" alt="Screenshot 2025-09-06 101803" src="https://github.com/user-attachments/assets/bafc702e-754a-46a1-b48c-e563e17f2215" />
+
+8. Max Burnout level by Age group 
+<img width="386" height="148" alt="Screenshot 2025-09-06 101818" src="https://github.com/user-attachments/assets/ea8b1477-5f37-423c-b632-24f6190be2d7" />
 
 ### Limitations
 The limitation of this analysis is in the sample size. The number of respondent in each age group is not equal, so the analysis cannot profoundly say that one age group is at more risk compared to the other. I can only assume. 
