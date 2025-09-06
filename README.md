@@ -68,12 +68,24 @@ I did a count of respondent according to age group who are at risk and not at ri
 ```
 
 For easier visualization I added a screenshoot of my outcome
-[Result.xlsx](https://github.com/user-attachments/files/17611792/githubsales.xlsx)
 
+<img width="1920" height="1037" alt="Screenshot 2025-09-06 093201" src="https://github.com/user-attachments/assets/01d85e0c-06f7-496a-a23d-bf82d71bfab0" />
+
+#### Pivot Tables
+
+I used Pivot Tables to smmarize the data into tables. These tables show 
+
+1. Burnout Risk By Age Group
+
+
+   
+1. ;bo d
+1. lgqd 
+1. kk 
 
 
 ### Limitations
-
+The limitation of this analysis is in the sample size. The number of respondent in each age group is not equal, so the analysis cannot profoundly say that one age group is at more risk compared to the other. I can only assume. 
 
 ### Project Structure
 
