@@ -110,12 +110,30 @@ Thereafter, I created a beautiful dashboard that explains my analysis at first g
 
 
 ### Limitations
-The limitation of this analysis is in the sample size. After extracting the data for remote workers only, I had a total number of 988 respondents. However, the result cannot be generalized as the number of respondent in each age group is not equal. For instance, the number of respondents in the Youth age group is more than those in the elder age group. So the analysis cannot profoundly say that one age group is at more risk compared to the other. I can only assume. 
+The limitation of this analysis is in the sample size. After extracting the data for remote workers only, I had a total number of 988 respondents. However, the result cannot be generalized or conclusive as the number of respondent in each age group is not equal. For instance, the number of respondents in the Youth age group is more than those in the elder age group. So the analysis cannot profoundly say that one age group is at more risk compared to the other. I can only assume. 
 
-### Analysis
+### Analysis and Result
+I didn't do much analysis with formulas, majorly used pivot tables to to do them.  
 
+So from the analysis, youths and young adults show the highest burnout risk with a total of 121 and 94 rsptectively. Which would mean that these two age group are more vulnearble to mental health based on this metric of burnout. However, 
 
-### Result
+Although, looking from the WLB metric, 433 out of 988 reported an healthy balance. However, even though poor balance came out with the lowest number of 225 respondents, it was as a result of higher commute time and stress level. The stress level with 10 as its peak from the respondent, came from people with poor balance. Mind you, the poor balance group is populated by the youth and young adult with high commute time and stress level. Youth having the highest number of 359 commute time. This further solidifies the   
 
+In lieu to work hours and sleep, the awerage work hours across the respondents is approximately 44 to 45 per week. The average work hour of the Elder age group - 45.6 however seem to counter the fact that youth and young adult age group are at more risk of mental health. Meanwhile, the Elders age group sleep less and they still have have a less burnout risk. This would mean that the quality of sleep above the duration of sleep, should be condidered of which the data is not available.   
+
+Moving on, the analysis based on job roles, data scientists have the highest work hours per week. And this might be from imbalaced workloads, size of team. Having an average of 23.8, being the lowest. 
 
 ### Recommendation
+- Organizations should create mental health awareness sessions focused on the youth and young adult age group.
+- Make sure that team leads monitor workoverload to share fairly anomg team members.
+- Organizations should partner with wellness providers for sleep hygiene training.
+- Educate remote workers on how to balance work and life.
+
+### Conclusion
+This analysis shows that the the youger generation workers are at more risk of mental health problem than elders. This would mean that any initiative to mitigate the risk of mental health issues should prioritized this age group.
+
+Follow me on GitHub 
+
+Follow me LinkedIn 
+
+
