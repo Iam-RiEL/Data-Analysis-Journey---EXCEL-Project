@@ -108,6 +108,9 @@ Thereafter, I created a beautiful dashboard that explains my analysis at first g
                JOB FACTORS OF MENTAL HEALTH
 <img width="1887" height="774" alt="Screenshot 2025-09-06 134435" src="https://github.com/user-attachments/assets/6e8906de-3ce8-4574-8b7b-0fb017e4cc6f" />
 
+### SEE THE ENTIRE FILE HERE
+[mental_health_workplace_survey.20250901215719515.xlsx](https://github.com/user-attachments/files/22235815/mental_health_workplace_survey.20250901215719515.xlsx)
+
 
 ### Limitations
 The limitation of this analysis is in the sample size. After extracting the data for remote workers only, I had a total number of 988 respondents. However, the result cannot be generalized or conclusive as the number of respondent in each age group is not equal. For instance, the number of respondents in the Youth age group is more than those in the elder age group. So the analysis cannot profoundly say that one age group is at more risk compared to the other. I can only assume. 
@@ -132,8 +135,9 @@ Moving on, the analysis based on job roles, data scientists have the highest wor
 ### Conclusion
 This analysis shows that the the youger generation workers are at more risk of mental health problem than elders. This would mean that any initiative to mitigate the risk of mental health issues should prioritized this age group.
 
-Follow me on GitHub 
+Follow me on GitHub: 
+https://github.com/Iam-RiEL
 
-Follow me LinkedIn 
-
+Follow me LinkedIn: 
+https://www.linkedin.com/in/gabri-el-ajewole%E2%9C%A8-9133ba213/
 
